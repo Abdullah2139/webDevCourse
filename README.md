@@ -1,2 +1,2 @@
 # webDevCourse
-Full Web Development Curse Code
+Full Web Development Course Code
